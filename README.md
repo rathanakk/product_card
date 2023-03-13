@@ -1,1 +1,1 @@
-# product_preview
+# Product preview card component
